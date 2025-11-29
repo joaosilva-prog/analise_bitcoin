@@ -28,3 +28,20 @@ O projeto foca em responder perguntas através dos dados:
 # 📚 Referências & Contexto
 Os dados utilizados neste projeto são estáticos e históricos (2017-2022), provenientes de material didático disponibilizado pelos criadores do curso.
 As análises aqui apresentadas têm fins estritamente educacionais e de desenvolvimento de habilidades em programação e estatística.
+
+---
+
+# 📸 Imagens
+
+<img width="1128" height="525" alt="newplot" src="https://github.com/user-attachments/assets/9f7ffc48-ed5f-4b22-ac24-ff97e8e08949" />
+
+<img width="1128" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/e7137739-4820-443b-a66f-052720e87787" />
+
+<img width="1128" height="525" alt="newplot (2)" src="https://github.com/user-attachments/assets/eb0db9f8-e90e-4de6-bf60-af7bf9bbf169" />
+
+<img width="1128" height="525" alt="newplot (3)" src="https://github.com/user-attachments/assets/3f26909e-5fae-43f0-adff-380707176462" />
+
+<img width="1128" height="525" alt="newplot (4)" src="https://github.com/user-attachments/assets/889796cb-63e9-46b3-9cc6-6f20e4affd30" />
+
+
+
