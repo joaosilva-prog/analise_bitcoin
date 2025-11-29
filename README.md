@@ -33,6 +33,8 @@ As análises aqui apresentadas têm fins estritamente educacionais e de desenvol
 
 # 📸 Imagens
 
+Visualizações Gráficas geradas com o projeto:
+
 <img width="1128" height="525" alt="newplot" src="https://github.com/user-attachments/assets/9f7ffc48-ed5f-4b22-ac24-ff97e8e08949" />
 
 <img width="1128" height="525" alt="newplot (1)" src="https://github.com/user-attachments/assets/e7137739-4820-443b-a66f-052720e87787" />
