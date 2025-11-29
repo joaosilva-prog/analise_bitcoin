@@ -1,0 +1,30 @@
+# 📊 Análise do Mercado de Bitcoin (2017-2022)
+Este repositório contém notebooks dedicados à Análise Exploratória de Dados (EDA) sobre o comportamento histórico do Bitcoin. O projeto utiliza dados de 2017 a 2022 para identificar tendências, volatilidade e padrões de volume no mercado de criptomoedas.
+
+O projeto inicial faz parte do curso Python para Análise de Dados (Udemy), porém, foi expandido com análises próprias, visando aprofundar o domínio sobre a manipulação de séries temporais e visualização interativa de dados.
+
+---
+
+# 🚀 Objetivos do Projeto
+Consolidação Técnica: Aplicação prática de bibliotecas essenciais de Data Science (Pandas, Plotly).
+
+Análise de Séries Temporais: Estudo de comportamentos de mercado ao longo de janelas de tempo específicas.
+
+Storytelling com Dados: Criação de visualizações que facilitam a interpretação de flutuações financeiras.
+
+---
+
+# 🔍 Principais Análises Realizadas
+O projeto foca em responder perguntas através dos dados:
+
+- Tendências de Preço: Como o ativo se comportou ao longo dos anos (Bull run vs Bear market).
+
+- Análise de Volume: Correlação entre volume de negociação mensal/anual e grandes movimentos de preço.
+
+- Volatilidade e Extremos: Estudo das variações entre máximas e mínimas (High/Low) para entender a estabilidade do ativo em diferentes períodos.
+
+---
+
+# 📚 Referências & Contexto
+Os dados utilizados neste projeto são estáticos e históricos (2017-2022), provenientes de material didático disponibilizado pelos criadores do curso.
+As análises aqui apresentadas têm fins estritamente educacionais e de desenvolvimento de habilidades em programação e estatística.
